@@ -1,0 +1,42 @@
+[
+  {
+    "jurisdiction": "India",
+    "state": "Rajasthan",
+    "source_title": "Rajasthan Anti-Corruption Bureau Annual Report 2024",
+    "source_url": "https://home.rajasthan.gov.in/content/dam/homeportal/anticorruptionbureaudepartment/Performances/AnnualReports/Annual-Report-2024.pdf",
+    "source_type": "official_annual_report",
+    "use": "Aggregate agency activity; not a state ranking or a complete list of individual cases."
+  },
+  {
+    "jurisdiction": "India",
+    "state": "Bihar",
+    "source_title": "Bihar Special Vigilance Unit / anti-corruption reports portal",
+    "source_url": "https://brka.bihar.gov.in/reports",
+    "source_type": "official_reports_portal",
+    "use": "Annual reports; case-level records must be extracted and checked individually."
+  },
+  {
+    "jurisdiction": "India",
+    "state": "All states and Union Territories",
+    "source_title": "Department of Administrative Reforms and Public Grievances reports",
+    "source_url": "https://www.darpg.gov.in/sites/default/files/2025-01-01_state.pdf",
+    "source_type": "official_government_report",
+    "use": "Grievance disposal statistics are not bribery counts and must not be used as a corruption ranking."
+  },
+  {
+    "jurisdiction": "United States",
+    "state": "Louisiana",
+    "source_title": "U.S. Department of Justice, Eastern District of Louisiana press releases",
+    "source_url": "https://www.justice.gov/usao-edla/news",
+    "source_type": "official_case_announcements",
+    "use": "Case announcements, indictments, pleas, convictions and sentencing; verify each procedural status."
+  },
+  {
+    "jurisdiction": "United States",
+    "state": "Louisiana",
+    "source_title": "U.S. Department of Justice, Western District of Louisiana press releases",
+    "source_url": "https://www.justice.gov/usao-wdla/news",
+    "source_type": "official_case_announcements",
+    "use": "Case announcements, indictments, pleas, convictions and sentencing; verify each procedural status."
+  }
+]
