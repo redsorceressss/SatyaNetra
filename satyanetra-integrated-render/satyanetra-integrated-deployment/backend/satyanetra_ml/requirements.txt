@@ -1,0 +1,6 @@
+# Core ML & NLP dependencies for SatyaNetra Scam-Pattern Similarity Engine
+scikit-learn>=1.4.0
+joblib>=1.3.0
+
+# Testing
+pytest>=8.0.0
